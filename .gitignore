@@ -1,4 +1,6 @@
+__pycache__*
 *.npy
 id_rsa
 id_rsa.pub
 env*
+results*

@@ -1,6 +1,5 @@
 __pycache__*
 *.npy
-env*
 id_rsa
 id_rsa.pub
 data/*

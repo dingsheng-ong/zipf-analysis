@@ -1,6 +1,9 @@
 __pycache__*
 *.npy
+env*
 id_rsa
 id_rsa.pub
-env*
-results*
+data/*
+!data/.gitkeep
+results/*
+!results/.gitkeep
